@@ -1,0 +1,28 @@
+h2
+{
+    display: block;
+    margin: 30px 30px 30px 0px;
+}
+.baseinfo p,.contect-type p
+{
+    display: inline-block;
+    margin: 0px 30px 0px 0px;
+}
+.baseinfo h2
+{
+    margin-top: 0;
+}
+span
+{
+    margin-right: 5px;
+    font-weight: bold;
+}
+a:link,a:visited
+{
+    color:rgb(61, 66, 64);
+	text-decoration:none;  
+}
+a:hover,a:active
+{
+	color:#7A991A;
+}
